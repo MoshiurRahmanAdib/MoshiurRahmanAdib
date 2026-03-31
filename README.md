@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:1rem; flex-wrap:wrap;">
-  <img src="./profile/stats.svg" alt="Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/MoshiurRahmanAdib/MoshiurRahmanAdib">
+    <img height="180" align="center" src="./profile/stats.svg" alt="Stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MoshiurRahmanAdib/MoshiurRahmanAdib">
+    <img height="180" align="center" src="./profile/top-langs.svg" alt="Top Languages" />
+  </a>
+</p>
 
 <!--
 **MoshiurRahmanAdib/MoshiurRahmanAdib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
