@@ -1,26 +1,23 @@
+
+
+```
+ __  __        _    _            ___      _                        _      _ _ _    
+|  \/  |___ __| |_ (_)_  _ _ _  | _ \__ _| |_  _ __  __ _ _ _     /_\  __| () |__  
+| |\/| / _ (_-< ' \| | || | '_| |   / _` | ' \| '  \/ _` | ' \   / _ \/ _` | | '_ \
+|_|  |_\___/__/_||_|_|\_,_|_|   |_|_\__,_|_||_|_|_|_\__,_|_||_| /_/ \_\__,_|_|_.__/
+  
+```
+
 ## Hi there 👋
 
+I'm Adib, a 15-year-old from Bangladesh who's into computers, tech, and figuring out how things actually work.
+
+I like building things, and thinking about how things look, function, how they're designed, and how I can make them better.
+
+Still learning.
+
+#
 <p align="center">
-  <a href="https://github.com/MoshiurRahmanAdib/MoshiurRahmanAdib">
-    <img height="180" align="center" src="./profile/stats.svg" alt="Stats" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MoshiurRahmanAdib/MoshiurRahmanAdib">
-    <img height="180" align="center" src="./profile/top-langs.svg" alt="Top Languages" />
-  </a>
+  <img align="top" src="./profile/stats.svg" alt="Stats" />
+  <img align="top" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
-
-<!--
-**MoshiurRahmanAdib/MoshiurRahmanAdib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
